@@ -2982,6 +2982,9 @@ margin-left: 0rem !important;
   .single-model .model-right {
     margin-top: 50px;
   }
+  .card-items{
+    margin-left: 5rem;
+  }
 }
 
 .single-review {
