@@ -2982,7 +2982,7 @@ margin-left: 0rem !important;
   .single-model .model-right {
     margin-top: 50px;
   }
-  .card-items{
+  .card-item{
     margin-left: 5rem;
   }
 }
@@ -3015,7 +3015,7 @@ margin-left: 0rem !important;
 }
 
 .jet-area {
-  background: url(img/boat-jet-ski.jpg) center;
+  background: url(img/yachtandjet.jpg) center;
   background-size: cover;
   text-align: center;
   color: #fff;
